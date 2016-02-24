@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ben Harkins]]></title>
         <description><![CDATA[Ben Harkins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ben-harkins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 18:19:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 19:43:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ben-harkins/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b15b0d62-db0d-416f-96dd-b56b50b29048.jpg">]]></description>
-            <link>undefined889b06d0-0dd2-49d5-bf84-a723ba1e54c7/index.html</link>
+            <title><![CDATA[First post for an AI generated site]]></title>
+            <description><![CDATA[<article><h1>First post for an AI generated site</h1><p>It's all happening</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e95f08a7240e46cd6066821b0925005d19caa26e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ben-harkins/889b06d0-0dd2-49d5-bf84-a723ba1e54c7/index.html</link>
             <guid isPermaLink="false">889b06d0-0dd2-49d5-bf84-a723ba1e54c7</guid>
-            <pubDate>Wed, 24 Feb 2016 18:19:46 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 19:43:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
